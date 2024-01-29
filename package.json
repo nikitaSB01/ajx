@@ -1,0 +1,19 @@
+{
+  "name": "@nikitasb01/ajx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikitaSB01/ajx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nikitaSB01/ajx/issues"
+  },
+  "homepage": "https://github.com/nikitaSB01/ajx#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
